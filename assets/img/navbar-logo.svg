@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0CF5A5;}
+	.st1{fill:#9113AD;}
+	.st2{fill:none;stroke:#9113AD;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="114.62" y="182.25" class="st0" width="180.06" height="180.83"/>
+	<polygon class="st0" points="294.68,182.25 384.52,136.75 384.52,317.59 294.68,363.09 	"/>
+	<polygon class="st0" points="121.42,178.81 204.65,136.75 381.42,136.75 294.68,182.25 114.62,182.25 	"/>
+	<polygon class="st1" points="324.18,166.82 242.44,166.82 264.53,155.66 240.3,155.66 218.26,166.82 187.09,166.82 246.45,136.75 
+		381.42,136.75 	"/>
+	<polygon class="st1" points="331.08,343.13 331.08,197.7 331.08,197.22 295.41,215.28 295.41,361.9 	"/>
+	<polygon class="st1" points="384.52,170.15 354.14,185.54 354.14,185.62 354.14,331.05 384.52,316.06 	"/>
+	<polyline class="st1" points="294.28,215.65 146.68,215.65 146.68,251.4 294.28,251.4 	"/>
+	<polyline class="st1" points="114.62,329.69 261.62,329.69 261.62,284.8 114.62,284.8 	"/>
+	<g>
+		<line class="st2" x1="294.68" y1="182.25" x2="384.52" y2="136.75"/>
+		<polyline class="st2" points="114.62,182.25 204.46,136.75 384.52,136.75 384.52,317.59 294.68,363.09 		"/>
+		<rect x="114.62" y="182.25" class="st2" width="180.06" height="180.83"/>
+	</g>
+</g>
+</svg>
